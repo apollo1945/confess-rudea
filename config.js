@@ -14,7 +14,7 @@ const CONFIG = {
     btnReply: 'Send to you <3',
     reply: 'Love is love, if not love, still love <33333333',
     mess: 'I knew it 🥰. Love you so much 😘😘',
-    messDesc: 'I'm happy now, I\'i like you',
+    messDesc: 'Im happy now,\'i like you',
     btnAccept: 'Okay <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //Your message link. For example: https://www.facebook.com/messages/t/montebon.samuel.5
 }
